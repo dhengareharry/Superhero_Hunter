@@ -25,7 +25,7 @@ Deployment
 To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
-Check out the live demo of the application at SuperheroHunter Demo to see it in action.
+Check out the live demo of the application at https://dhengareharry.github.io/Superhero_Hunter/ to see it in action.
 
 * Author
 @HarishDhengare
